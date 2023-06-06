@@ -3,15 +3,23 @@ The data and code of ACL 2023 Findings paper "I run as fast as a rabbit, can you
 
 The simile in a dialogue scene is very different from the traditional simile in a sentence or a triplet. This paper studies the complex simile phenomena in dialogue and proposes simile dialogue data with both English and Chinese examples. The statistics are as below.
 
-Category                       |   Ch   |    En
-Simile                         |  5,515 |  3,576
-Literal                        |  5,904 |  4,570
-Tenor in context               |  32.8% |  48.9%
-Tenor in response              |  67.2% |  51.1%
-Vehicle before Tenor           |  5.7%  |  0.9%
-Tenor before Vehicle           |  94.3% |  99.1%
-Ave. context words in simile   |  20.76 |  22.22
-Ave. response words in simile  |  18.86 |  17.83
+Category                       |   Ch   |    En   |
+
+Simile                         |  5,515 |  3,576  |
+
+Literal                        |  5,904 |  4,570  |
+
+Tenor in context               |  32.8% |  48.9%  |
+
+Tenor in response              |  67.2% |  51.1%  |
+
+Vehicle before Tenor           |  5.7%  |  0.9%   |
+
+Tenor before Vehicle           |  94.3% |  99.1%  |
+
+Ave. context words in simile   |  20.76 |  22.22  |
+
+Ave. response words in simile  |  18.86 |  17.83  |
 
 The MSD-v1.0.zip contains five folders corresponding to the five tasks we defined and the data we used in the paper.
 
