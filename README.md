@@ -29,6 +29,6 @@ The MSD-v1.0.zip contains five folders corresponding to the five tasks we define
 4 - Simile Response Retrieval
 5 - Simile Response Generation(Completion)
 
-If you use the MSD data for research.
+If you use the MSD data for research. please cite our paper "I run as fast as a rabbit, can you? A Multilingual Simile Dialogue Dataset"
 
-please cite our paper "I run as fast as a rabbit, can you? A Multilingual Simile Dialogue Dataset"
+We will upload the data in 3 days.
