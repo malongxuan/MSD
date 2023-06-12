@@ -31,4 +31,4 @@ The MSD-v1.0.zip contains five folders corresponding to the five tasks we define
 
 If you use the MSD data for research. please cite our paper "I run as fast as a rabbit, can you? A Multilingual Simile Dialogue Dataset"
 
-We will upload the data in 3 days.
+We have already upload our paper on arxiv.org and we will upload the data in 3 days.
