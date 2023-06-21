@@ -1,6 +1,8 @@
 # MSD
 The data and code of ACL 2023 Findings paper "I run as fast as a rabbit, can you? A Multilingual Simile Dialogue Dataset"
 
+https://arxiv.org/abs/2306.05672
+
 The simile in a dialogue scene is very different from the traditional simile in a sentence or a triplet. This paper studies the complex simile phenomena in dialogue and proposes simile dialogue data with both English and Chinese examples. The statistics are as below.
 
 Category                       |   Ch   |    En   |
@@ -36,22 +38,34 @@ The MSD-v1.0.zip contains five folders corresponding to the five tasks we define
 If you use the MSD data for research, please cite our paper "I run as fast as a rabbit, can you? A Multilingual Simile Dialogue Dataset"
 
 @article{DBLP:journals/corr/abs-2306-05672,
+
   author       = {Longxuan Ma and
                   Weinan Zhang and
                   Shuhan Zhou and
                   Churui Sun and
                   Changxin Ke and
                   Ting Liu},
-  title        = {I run as fast as a rabbit, can you? {A} Multilingual Simile Dialogue
-                  Dataset},
+                  
+  title        = {I run as fast as a rabbit, can you? {A} Multilingual Simile Dialogue Dataset},
+                  
   journal      = {CoRR},
+  
   volume       = {abs/2306.05672},
+  
   year         = {2023},
+  
   url          = {https://doi.org/10.48550/arXiv.2306.05672},
+  
   doi          = {10.48550/arXiv.2306.05672},
+  
   eprinttype    = {arXiv},
+  
   eprint       = {2306.05672},
+  
   timestamp    = {Wed, 14 Jun 2023 13:17:00 +0200},
+  
   biburl       = {https://dblp.org/rec/journals/corr/abs-2306-05672.bib},
+  
   bibsource    = {dblp computer science bibliography, https://dblp.org}
+  
 }
